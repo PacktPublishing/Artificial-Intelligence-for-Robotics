@@ -4,7 +4,7 @@
 
 This is the code repository for [Artificial Intelligence for Robotics](https://www.packtpub.com/hardware-and-creative/artificial-intelligence-robotics?utm_source=github&utm_medium=repository&utm_campaign=9781788835442), published by Packt.
 
-FRANCIS' FORK:  This is the UPDATED Version of the repository that has code and items that were written after the book was published.  There are upated code, pictures, and diagrams to assist you to replicate the examples in the book. 
+<b> FRANCIS' FORK:  This is the UPDATED Version of the repository that has code and items that were written after the book was published.  There are upated code, pictures, and diagrams to assist you to replicate the examples in the book. </b>
 
 **Build intelligent robots that perform human tasks using AI techniques**
 
