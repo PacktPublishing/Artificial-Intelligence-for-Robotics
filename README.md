@@ -4,6 +4,8 @@
 
 This is the code repository for [Artificial Intelligence for Robotics](https://www.packtpub.com/hardware-and-creative/artificial-intelligence-robotics?utm_source=github&utm_medium=repository&utm_campaign=9781788835442), published by Packt.
 
+FRANCIS' FORK:  This is the UPDATED Version of the repository that has code and items that were written after the book was published.  There are upated code, pictures, and diagrams to assist you to replicate the examples in the book. 
+
 **Build intelligent robots that perform human tasks using AI techniques**
 
 ## What is this book about?
@@ -36,6 +38,8 @@ Sudo pip install –upgrade pip
 **Following is what you need for this book:**
 
 If you have basic knowledge about robotics and want to build or enhance your existing robot’s intelligence, then Artificial Intelligence for Robotics is for you. This book is also for enthusiasts who want to gain knowledge of AI and robotics.	
+
+I've added wiring diagrams and some pictures of the electronics placement on the robot for fans of the book who are trying to duplicate TinMan the Robot.  There is also arduino code in Chapter 1
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
